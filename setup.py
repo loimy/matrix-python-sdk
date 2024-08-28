@@ -46,7 +46,7 @@ setup(
     keywords='chat sdk matrix matrix.org',
     install_requires=[
         'requests~=2.22',
-        'urllib3~=1.21',
+       
     ],
     setup_requires=['pytest-runner~=5.1'],
     tests_require=['pytest >=4.6.5, <6.0.0', 'responses >=0.10.6, ==0.10.*'],
